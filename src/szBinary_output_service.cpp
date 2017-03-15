@@ -1,0 +1,1 @@
+#include"szBinary_output_service.hpp"
